@@ -1,8 +1,6 @@
-# ESLint Example
+# GitHub Pages with Actions Example
 
-This example shows a Next.js application using the built-in ESLint setup with the `next` shareable configuration enabled in `.eslintrc`.
-
-Learn more about the integrated ESLint configuration [in the docs](https://nextjs.org/docs/basic-features/eslint).
+This example shows a Next.js application configured with GitHub Actions workflow to be deployed to GitHub Pages.
 
 ## Deploy your own
 
