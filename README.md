@@ -33,7 +33,7 @@ pnpm create next-app --example github-pages-with-actions github-pages-with-actio
 3.  On GitHub, go to **Settings** > **Pages** > **Build and Deployment**, and choose `GitHub Actions` as the Source.
 4.  Make a change.
 
-Congratulations! You should have a URL like:
+The workflow will be triggered each time you make any changes and your site will be deployed to the URL:
 
 ```bash
 https://<github-user-name>.github.io/<github-project-name>/
